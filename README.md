@@ -24,7 +24,7 @@ You can also refactor the code, e.g. parametrize and move the helper functions f
 
 ## How to run the application
 - Clone the repository to your local machine
-- Install Python 3.6 or higher, if you don't have it yet
+- Install Python 3.9 or higher, if you don't have it yet
 - Create a virtual environment and activate it, e.g. using virtualenv. For Linux, you can use the following commands:
    - ```sudo apt install python3-venv```
    - ```python3 -m venv /path/to/your/venv```
